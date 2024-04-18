@@ -1,0 +1,64 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+h1{
+text-align: center;
+margin-bottom: 0%;
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 30px;
+}
+.london{
+text-align: center;
+color:hsl(75, 94%, 57%) ;
+margin-top: 0%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.front{
+text-align: center;
+color: white;
+font-size: 16px;
+}
+img{
+display: block;
+margin-top: 0;
+margin-bottom: 0;
+margin-right: auto;
+margin-left: auto;
+padding-left: 30%;
+border-radius: 100%;
+}
+.github{text-align: center;   
+color: white;
+}
+.frontend{
+text-align: center;
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 14px;
+}
+.linkedin{
+text-align: center;
+color: white;
+}
+.twitter{
+text-align: center;
+color: white;
+}
+.instagram{
+text-align: center;
+color: white;
+}
+img{  
+padding: 2%;  
+}
+button{
+height: 30px;
+width: 155px;
+margin-top: 1%;
+background-color:hsl(0, 0%, 12%) ;
+border-radius: 12px;
+border: none;
+color: white;
+font-size: 14px;
+}
